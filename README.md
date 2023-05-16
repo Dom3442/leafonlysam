@@ -11,7 +11,7 @@ In order to use it you need to have [segment anything](https://github.com/facebo
 
 ## Citing Leaf Only SAM
 
-If you use Leaf Only SAM in your research, please use the following BibTeX entry.
+If you use Leaf Only SAM in your research, please cite the following BibTeX entry.
 
 ```
 
