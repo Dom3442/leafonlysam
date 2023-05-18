@@ -1,6 +1,6 @@
 # Leaf Only Sam
 
-[[`Paper`]()] [[`Data`]()]
+[[`Paper`](https://arxiv.org/abs/2305.09418)] [[`Data`]()]
 
 
 This is the code from the paper Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation
@@ -14,5 +14,12 @@ In order to use it you need to have [segment anything](https://github.com/facebo
 If you use Leaf Only SAM in your research, please cite the following BibTeX entry.
 
 ```
-
+@misc{williams2023leaf,
+      title={Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation}, 
+      author={Dominic Williams and Fraser MacFarlane and Avril Britten},
+      year={2023},
+      eprint={2305.09418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
