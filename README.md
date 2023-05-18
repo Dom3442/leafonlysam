@@ -1,6 +1,6 @@
 # Leaf Only Sam
 
-[[`Paper`](https://arxiv.org/abs/2305.09418)] [[`Data`]()]
+[[`Paper`](https://arxiv.org/abs/2305.09418)] [[`Data`](https://doi.org/10.5281/zenodo.7938231)]
 
 
 This is the code from the paper Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation
