@@ -7,7 +7,21 @@ This is the code from the paper Leaf Only SAM: A Segment Anything Pipeline for Z
 
 The is a series of post processing steps to be applied to the output of Segment Anything to identify only leaf masks.  The method has been developed and tested on a novel dataset of potato leaf images which is located [here](link)
 
-In order to use it you need to have [segment anything](https://github.com/facebookresearch/segment-anything) working on your system.
+## Installation
+
+In order to use it you need to have [segment anything](https://github.com/facebookresearch/segment-anything) working on your system and opencv.  
+
+The easiest way to set up is to create a conda environment by running the command.
+
+```
+conda create --name leafonlysam numpy pytorch torchvision torchaudio pytorch-cuda=12.4 opencv matplotlib pandas ipykernel -c pytorch -c nvidia
+```
+
+You will then need to add in segment anything by running 
+
+```
+pip install git+https://github.com/facebookresearch/segment-anything.git
+```
 
 ## Citing Leaf Only SAM
 
