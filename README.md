@@ -11,6 +11,7 @@ The is a series of post processing steps to be applied to the output of Segment 
 
 In order to use it you need to have [segment anything](https://github.com/facebookresearch/segment-anything) working on your system and opencv.  
 
+The code requires python>=3.8, as well as pytorch>=1.7 and torchvision>=0.8. 
 The easiest way to set up is to create a conda environment by running the command.
 
 ```
